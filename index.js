@@ -1,1 +1,1 @@
-module.exports = require('./genesis-tiger8');
+module.exports = require('./lib/genesis-tiger8');
