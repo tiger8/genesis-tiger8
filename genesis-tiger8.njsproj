@@ -27,7 +27,6 @@
     <Compile Include="index.js" />
     <Compile Include="lib\BaseController.js" />
     <Compile Include="lib\genesis-tiger8.js" />
-    <Compile Include="lib\genesis-versioning.js" />
     <Compile Include="test\genesis-tiger8_test.js" />
   </ItemGroup>
   <ItemGroup>

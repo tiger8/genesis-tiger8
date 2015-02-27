@@ -1,6 +1,6 @@
 {
   "name": "genesis-tiger8",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "a node.js module",
   "keywords": [
     "appcelerator",
@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "fs-extended": "^0.2.0",
-    "lodash": "^2.4.1",
+    "lodash": "^3.3.1",
     "sugar": "^1.4.1",
     "tiapp.xml": "^0.2.2",
     "wrench": "^1.5.8"
